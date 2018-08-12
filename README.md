@@ -13,4 +13,5 @@ This model come from M. A. Lieberman and A. J. Lichtenberg, Principles of Plasma
 <img width="251" alt="screen shot 2018-08-12 at 1 01 54 pm" src="https://user-images.githubusercontent.com/33142211/44004386-fcde5d00-9e2f-11e8-8356-ea43b7d99464.png">
 
 # Result exemple
-For an argon plasma
+For an argon plasma of radius R = 8 cm and a length L = 20 cm (reactor dimensions)
+<img width="608" alt="screen shot 2018-08-12 at 1 07 13 pm" src="https://user-images.githubusercontent.com/33142211/44004438-bf594444-9e30-11e8-8115-92c5c484cd99.png">
