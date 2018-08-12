@@ -8,3 +8,6 @@ This model come from M. A. Lieberman and A. J. Lichtenberg, Principles of Plasma
 
 
  It is worth highlighting that this model takes into account the collisionless, the variable mobility, and diffusion regimes in the calculations of the effective plasma size d_eff which is defined as :
+
+<img width="197" alt="screen shot 2018-08-12 at 1 01 51 pm" src="https://user-images.githubusercontent.com/33142211/44004385-fb3f50a8-9e2f-11e8-952e-09bfa5ef220b.png">
+<img width="251" alt="screen shot 2018-08-12 at 1 01 54 pm" src="https://user-images.githubusercontent.com/33142211/44004386-fcde5d00-9e2f-11e8-8356-ea43b7d99464.png">
